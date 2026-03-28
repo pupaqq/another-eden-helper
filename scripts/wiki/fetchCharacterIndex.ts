@@ -104,28 +104,41 @@ async function main() {
     fetchedAt: string
   }[] = []
 
+  const failed: { pageUrl: string; name: string; error: string }[] = []
+
   for (let i = 0; i < toFetch.length; i++) {
     const e = toFetch[i]!
     const slug = slugFromUrl(e.pageUrl)
     const filePath = join(RAW_DIR, `${slug}.html`)
     console.log(`[${i + 1}/${toFetch.length}] ${e.name}`)
-    const pageHtml = await fetchHtmlEucJp(e.pageUrl)
-    await writeFile(filePath, pageHtml, 'utf-8')
-    meta.push({
-      pageUrl: e.pageUrl,
-      name: e.name,
-      rawFile: `data/wiki/raw/characters/${slug}.html`,
-      fetchedAt: new Date().toISOString(),
-    })
+    try {
+      const pageHtml = await fetchHtmlEucJp(e.pageUrl)
+      await writeFile(filePath, pageHtml, 'utf-8')
+      meta.push({
+        pageUrl: e.pageUrl,
+        name: e.name,
+        rawFile: `data/wiki/raw/characters/${slug}.html`,
+        fetchedAt: new Date().toISOString(),
+      })
+    } catch (err) {
+      const msg = err instanceof Error ? err.message : String(err)
+      console.error(`  失敗: ${e.name} — ${msg}`)
+      failed.push({ pageUrl: e.pageUrl, name: e.name, error: msg })
+    }
     await sleep(1500)
   }
 
   await writeJson(join(DATA_WIKI, 'character-raw-manifest.json'), {
     fetchedAt: new Date().toISOString(),
-    count: meta.length,
+    okCount: meta.length,
+    failCount: failed.length,
     pages: meta,
+    failed,
   })
-  console.log(`raw 保存完了: ${meta.length} 件 (${RAW_DIR})`)
+  console.log(
+    `raw 保存: 成功 ${meta.length} / ${toFetch.length} 件 (${RAW_DIR})` +
+      (failed.length ? ` — 失敗 ${failed.length} 件は manifest の failed を参照` : ''),
+  )
 }
 
 main().catch((err) => {
