@@ -1,0 +1,2556 @@
+{
+  "fetchedAt": "2026-03-28T06:16:49.217Z",
+  "sources": [
+    {
+      "id": "star5",
+      "label": "★5キャラ一覧",
+      "url": "https://anothereden.game-info.wiki/d/%a1%f95%a5%ad%a5%e3%a5%e9%b0%ec%cd%f7"
+    },
+    {
+      "id": "star4",
+      "label": "★4キャラ一覧",
+      "url": "https://anothereden.game-info.wiki/d/%a1%f94%a5%ad%a5%e3%a5%e9%b0%ec%cd%f7"
+    }
+  ],
+  "totalUnique": 317,
+  "characters": [
+    {
+      "name": "アィシャ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%a3%a5%b7%a5%e3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ZUwJ1I38uQ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アカネ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%ab%a5%cd",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/5b3036ae145f17f4.png",
+      "listIds": [
+        "star5",
+        "star4"
+      ]
+    },
+    {
+      "name": "アカネ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%ab%a5%cd%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/_hj35XXrR9.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アザミ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%b6%a5%df",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/sbU5h02dkm.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アザミ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%b6%a5%df%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/5CWFgWM_Ku.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アシュティア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%b7%a5%e5%a5%c6%a5%a3%a5%a2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/epBHkptm2d.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アナベル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%ca%a5%d9%a5%eb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/oizLqJtxu5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アナベル(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%ca%a5%d9%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/hmXepqjYOk.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アナベル(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%ca%a5%d9%a5%eb%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/OPd0B92Ux6.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルテナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%c6%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/6SdgCqofNv.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%c9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/vfcp2UhNdv.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルド(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%c9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/cf001184a6853648.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルフェン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%d5%a5%a7%a5%f3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/CekUKYtnRL.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルマ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%de",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/fZ317IgBBM.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アルマ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%eb%a5%de%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/rrRtozR3P2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "アンペル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a2%a5%f3%a5%da%a5%eb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/wLXzZML419.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イーファ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a1%bc%a5%d5%a5%a1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/SiJhGqK6I1.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イーファ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a1%bc%a5%d5%a5%a1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/t7BSaQZw_A.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イウェラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%a6%a5%a7%a5%e9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/lN8eDoijpI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イウェラ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%a6%a5%a7%a5%e9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/87wyxGPmbD.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イスカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%b9%a5%ab",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/5XK7GGeu14.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イスカ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%b9%a5%ab%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/G7NqJQ71Wo.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イスカ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%b9%a5%ab%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/qtGAePyDnB.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イヅナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%c5%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/M72m5EeiLS.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%c9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Ej9G9SIEjZ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イルルゥ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%eb%a5%eb%a5%a5",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/OuG8N1RhhM.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "イルルゥ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a4%a5%eb%a5%eb%a5%a5%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/fgFHdflkRc.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴァイオレット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a1%a5%a4%a5%aa%a5%ec%a5%c3%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/HKCFI_wQEO.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴィアッカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a3%a5%a2%a5%c3%a5%ab",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ikEgLC9ssI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴィアッカ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a3%a5%a2%a5%c3%a5%ab%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/HnZkhdttnm.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴィクト",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a3%a5%af%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/in1BA5V1LX.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴィクト(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a3%a5%af%a5%c8%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/nMhITiqQpu.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴェイナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a7%a5%a4%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/_lBQdpnKvo.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴェイナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a7%a5%a4%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/A0QGbKxqcG.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ウェネーフィカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a6%a5%a7%a5%cd%a1%bc%a5%d5%a5%a3%a5%ab",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/LEZ8PGgptA.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴェルダンタ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a7%a5%eb%a5%c0%a5%f3%a5%bf",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/a7ffa10d51aedf0f.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴェレット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a7%a5%ec%a5%c3%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ncDJvVQ8Ep.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヴェレット(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%f4%a5%a7%a5%ec%a5%c3%a5%c8%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/0209fcef978c62b0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ウクアージ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a6%a5%af%a5%a2%a1%bc%a5%b8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/UJSMUGaUOK.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ウツハラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a6%a5%c4%a5%cf%a5%e9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/05GTOP9Neq.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エイミ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%a4%a5%df",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/4SeHNUunBz.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エヴァ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%f4%a5%a1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/epL422iHHP.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エニ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%cb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/C0zaItnwbV.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エルガ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%eb%a5%ac",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/WI5af5Rzrq.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エルガ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%eb%a5%ac%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/FSZxLgB9kf.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エルシール",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%eb%a5%b7%a1%bc%a5%eb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/0bZpketZO9.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "エルシール(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%a8%a5%eb%a5%b7%a1%bc%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/5l2wAm7EHc.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "オトハ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%aa%a5%c8%a5%cf",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/gJnH5zYWOo.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "オトハ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%aa%a5%c8%a5%cf%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/5f0dFM99Ia.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "オボロ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%aa%a5%dc%a5%ed",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/AciEaCzoAZ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "オルレイア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%aa%a5%eb%a5%ec%a5%a4%a5%a2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/XBp4NLvdmI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "オルレイア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%aa%a5%eb%a5%ec%a5%a4%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/HQrnCVZy2D.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガーネット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a1%bc%a5%cd%a5%c3%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/c5a5bc8cac70489a.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "カグラメ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ab%a5%b0%a5%e9%a5%e1",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/LhVlB0kdV2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "カムラナージュ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ab%a5%e0%a5%e9%a5%ca%a1%bc%a5%b8%a5%e5",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/0MFepV2sfb.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガラムバレル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a5%e9%a5%e0%a5%d0%a5%ec%a5%eb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/K8hNCg9iGG.jpg",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガラムバレル(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a5%e9%a5%e0%a5%d0%a5%ec%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/WozuE8t8o8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガリアード",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a5%ea%a5%a2%a1%bc%a5%c9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/A1bxvZRVJW.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガリユ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a5%ea%a5%e6",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/gQthDybeM7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ガリユ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ac%a5%ea%a5%e6%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/xZV8kal5iu.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "キキョウ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ad%a5%ad%a5%e7%a5%a6",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/jQ6GshAK5m.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "キキョウ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ad%a5%ad%a5%e7%a5%a6%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Bvywqb9U6o.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "キッド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ad%a5%c3%a5%c9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/7n0NNNSLmo.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "キュリオ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ad%a5%e5%a5%ea%a5%aa",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/qGIDCOsPVC.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ギルドナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ae%a5%eb%a5%c9%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/RRhWkguog5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クーラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a1%bc%a5%e9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/OH8My_t1LI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クチナワ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%c1%a5%ca%a5%ef",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/2RLL9ShvG3.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クラウディア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%e9%a5%a6%a5%c7%a5%a3%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/yqeIV8aME1.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クラグホーン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%e9%a5%b0%a5%db%a1%bc%a5%f3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/0324f3391839465e.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クラルテ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%e9%a5%eb%a5%c6",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/cEnHYILSSl.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クラルテ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%e9%a5%eb%a5%c6%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/y4PFNMH8O2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クレス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ec%a5%b9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/J7V8GY90b0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クレルヴォ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ec%a5%eb%a5%f4%a5%a9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/VShzn9Ogkx.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "クレルヴォ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ec%a5%eb%a5%f4%a5%a9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/JpMf6kWBtU.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クロード",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ed%a1%bc%a5%c9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Er8elNRpQC.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クロード(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ed%a1%bc%a5%c9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/FWCkjUw7gC.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "クロード(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%af%a5%ed%a1%bc%a5%c9%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/jD716_O2Y6.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "コマチ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b3%a5%de%a5%c1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/bz1YB5JaRV.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "コマチ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b3%a5%de%a5%c1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/SsxdRrkzY5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "コレット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b3%a5%ec%a5%c3%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/vaTqXbJo4a.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "サイラス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b5%a5%a4%a5%e9%a5%b9%a1%a6%a5%aa%a5%eb%a5%d6%a5%e9%a5%a4%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/r6EIndKVwF.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "サイラス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b5%a5%a4%a5%e9%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/mdUqUjVN25.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "サキ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b5%a5%ad",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/Zx1RfJnCDP.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "サキ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b5%a5%ad%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/MhHhWYd77d.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "サザンカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b5%a5%b6%a5%f3%a5%ab",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/o66vj0icUF.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シーラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a1%bc%a5%e9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/JuQTtFzxFB.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "シーラ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a1%bc%a5%e9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/jgGnhbuJqi.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ジェイド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%a7%a5%a4%a5%c9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/rHOsZBY5j7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シェイネ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a7%a5%a4%a5%cd",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Ky6sKluXDm.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シェイネ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a7%a5%a4%a5%cd%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/Cgz61lp60Q.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シェリーヌ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a7%a5%ea%a1%bc%a5%cc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/KiSywGCJWc.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シェリーヌ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a7%a5%ea%a1%bc%a5%cc%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/TbqCe_4jtY.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シエル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a8%a5%eb",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/YD0nBlowid.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シエル(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a8%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/t5RSSHrb2P.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シェンファ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%a7%a5%f3%a5%d5%a5%a1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/N2I9IKClBq.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シオン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%aa%a5%f3%28%a5%c6%a5%a4%a5%eb%a5%ba%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/15N9A6e3Gw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シオン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%aa%a5%f3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/wtApn0i4Uk.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シオン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%aa%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ouxYW7WjeA.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シオン(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%aa%a5%f3%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/21334a452cff8310.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シグレ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%b0%a5%ec",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/27aR1EXqLL.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シグレ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%b0%a5%ec%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/EfrUFoyPX0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シグレ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%b0%a5%ec%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/8Empz_xVAj.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ジタン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%bf%a5%f3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/af3b31d7243a32b2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シャノン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%e3%a5%ce%a5%f3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/l6cbqs9QMY.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シャノン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%e3%a5%ce%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/ipHK11Q6OP.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シュゼット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%e5%a5%bc%a5%c3%a5%c8",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Oq4CJ8Yg05.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シュゼット(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%e5%a5%bc%a5%c3%a5%c8%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/cZgkB0U0YM.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シュゼット(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%e5%a5%bc%a5%c3%a5%c8%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/olY9yEv3uT.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ジョーカー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%e7%a1%bc%a5%ab%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/PMmzflrz8Z.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ジルバー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%eb%a5%d0%a1%bc",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/wujGDGcGCN.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ジルバー(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%eb%a5%d0%a1%bc%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/yi50kTj6QL.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ジルファニー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b8%a5%eb%a5%d5%a5%a1%a5%cb%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/DDfKHFTtyw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シンシア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%f3%a5%b7%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/RtCd1mqSfA.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "シンシア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b7%a5%f3%a5%b7%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/cw09qn0iie.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "スカル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b9%a5%ab%a5%eb",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/DMLuhkXEtA.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "スタイナー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%b9%a5%bf%a5%a4%a5%ca%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/d6873f1a2ba9bd3d.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ゼヴィーロ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bc%a5%f4%a5%a3%a1%bc%a5%ed",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/S0fzJPLPRQ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ゼヴィーロ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bc%a5%f4%a5%a3%a1%bc%a5%ed%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/Cjx9DgkUYY.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セヴェン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%f4%a5%a7%a5%f3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/oqhiwVTTgn.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セスタ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%b9%a5%bf",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/RPJsIWTtQo.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セスタ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%b9%a5%bf%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/H_yszb1vwk.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セティー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%c6%a5%a3%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/h55otyNDrD.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セティー(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%c6%a5%a3%a1%bc%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/oqf7RRPaz9.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セリエス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%ea%a5%a8%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/GdikYHw6SU.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セリエス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%ea%a5%a8%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/beedd5492d64c694.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "セルジュ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%eb%a5%b8%a5%e5",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/FTRh2y_6vX.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "センヤ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%f3%a5%e4",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/LlBMP1QfZd.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "センヤ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bb%a5%f3%a5%e4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/gR0OBrZneO.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ソイラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bd%a5%a4%a5%e9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/4vHwK_kRiS.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ソイラ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bd%a5%a4%a5%e9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/InMbodUZim.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ソフィア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%bd%a5%d5%a5%a3%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/HcB0bo4pT3.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "チヨ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c1%a5%e8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/yRVKR1gNXG.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "チヨ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c1%a5%e8%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/jPrZKVqtha.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "チルリル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c1%a5%eb%a5%ea%a5%eb",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/iBNj_LDLug.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "チルリル(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c1%a5%eb%a5%ea%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/4Wv9w5K5ed.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "チルリル(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c1%a5%eb%a5%ea%a5%eb%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/JI_fngt75q.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツキハ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%ad%a5%cf",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/9HI5UiC4kI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツキハ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%ad%a5%cf%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/rkQAAOLwr0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツキハ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%ad%a5%cf%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/u21y8K3kXG.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツクヨミ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%af%a5%e8%a5%df",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/uVW4nQkbjt.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツバメ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%d0%a5%e1",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/vhX1CQViT4.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ツバメ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c4%a5%d0%a5%e1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/SZfva0xK8b.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ディアドラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c7%a5%a3%a5%a2%a5%c9%a5%e9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/zieZ8a1kkv.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ティティ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c6%a5%a3%a5%c6%a5%a3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/HkS7rNsQ0E.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ティラミス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c6%a5%a3%a5%e9%a5%df%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/oqGy0ORk1O.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ティラミス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c6%a5%a3%a5%e9%a5%df%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/_kpngZJrWY.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "デューイ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c7%a5%e5%a1%bc%a5%a4",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/pXNheO8PbM.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "デューイ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c7%a5%e5%a1%bc%a5%a4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/tOC9NgTCFd.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "デュナリス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c7%a5%e5%a5%ca%a5%ea%a5%b9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/VSYA6oP9DL.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "デュナリス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c7%a5%e5%a5%ca%a5%ea%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/MxcVEf3lOB.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "テリー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c6%a5%ea%a1%bc",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/dD7PVmFFIM.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "トゥーヴァ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c8%a5%a5%a1%bc%a5%f4%a5%a1",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/cdScaB5QOs.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "トゥーヴァ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c8%a5%a5%a1%bc%a5%f4%a5%a1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/YWMr6KRO9T.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "トゥーヴァ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%c8%a5%a5%a1%bc%a5%f4%a5%a1%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/TArJDUhHd2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ナギ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ca%a5%ae",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/97ZkwwA0Ac.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ナギ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ca%a5%ae%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/6HWM_Xf39M.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ナギ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ca%a5%ae%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/gEQGeQYo16.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ニケ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cb%a5%b1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/y6wJKnxOZ3.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ニケ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cb%a5%b1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/5_L7mRqNpQ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ニナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cb%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/4a2d3fff9ee0ee77.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ニルヤ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cb%a5%eb%a5%e4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/9afe8d1aa0baebc2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ねここ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a4%cd%a4%b3%a4%b3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/AVIad_pWfr.jpg",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ねここ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a4%cd%a4%b3%a4%b3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/RHRFeqs52l.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ねここ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a4%cd%a4%b3%a4%b3%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/zcgqMwHOBw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ノーナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ce%a1%bc%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ky5spRSpge.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ノーナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ce%a1%bc%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/TkFGjuvzvq.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ノクシス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ce%a5%af%a5%b7%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/BRTmG3aJt1.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ノクシス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ce%a5%af%a5%b7%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/HsEgcdLPrH.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ノノルド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ce%a5%ce%a5%eb%a5%c9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/c2y5ho7Qu4.png",
+      "listIds": [
+        "star5",
+        "star4"
+      ]
+    },
+    {
+      "name": "ハーディー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cf%a1%bc%a5%c7%a5%a3%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/SkfxIAIx1P.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ハーディー(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%cf%a1%bc%a5%c7%a5%a3%a1%bc%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/tTETOTZTHJ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "パリサ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d1%a5%ea%a5%b5",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/HPlCnXJ7VE.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "パリサ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d1%a5%ea%a5%b5%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/fBR5rBGfhw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "パルテティオ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d1%a5%eb%a5%c6%a5%c6%a5%a3%a5%aa",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/zOTQ7Nsjmp.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒイナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%a4%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/SAg02OEcdS.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒイナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%a4%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/_LI4MF8BhK.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ビヴェット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d3%a5%f4%a5%a7%a5%c3%a5%c8",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/ZRvPjA9IFa.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒスメナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%b9%a5%e1%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/lOWn7rU1xR.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒスメナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%b9%a5%e1%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/CHO5WQ9SU1.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒスメナ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%b9%a5%e1%a5%ca%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ccdfbcbaa075ffb6.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ピチカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d4%a5%c1%a5%ab",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/tniq2IlLxb.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ピチカ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d4%a5%c1%a5%ab%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/xfT0Bo4opp.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒナギク",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%ca%a5%ae%a5%af",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/f94TCN36Dd.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヒナギク(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d2%a5%ca%a5%ae%a5%af%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/EK8XbKol1l.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ビビ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d3%a5%d3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/64724bceb98288a7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フィーネ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a3%a1%bc%a5%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/rRRLoaAycg.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フィーネ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a3%a1%bc%a5%cd%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/kojrqvtx2p.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フィロ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a3%a5%ed",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/4yklYHGqdV.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フィロ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a3%a5%ed%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/rC_DNTCIF8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フェルミナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a7%a5%eb%a5%df%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/hjNRHZ02io.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フェルミナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a7%a5%eb%a5%df%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/2th3p2rvxd.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フェルミナ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a7%a5%eb%a5%df%a5%ca%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/WduzLvSrk3.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フォラン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a9%a5%e9%a5%f3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/yBc7z9ssxf.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "フォラン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%a9%a5%e9%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/QtTaR3l6sP.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "プライ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d7%a5%e9%a5%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/9OIGu89mEX.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フラムラピス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%e9%a5%e0%a5%e9%a5%d4%a5%b9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/WXSm52Jls_.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "フラムラピス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d5%a5%e9%a5%e0%a5%e9%a5%d4%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/2iCfOvHiIG.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ブリアー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d6%a5%ea%a5%a2%a1%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/fXiT5GOOYI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "プレメア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d7%a5%ec%a5%e1%a5%a2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/OFGEcqp9Oq.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "プレメア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d7%a5%ec%a5%e1%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/bTKKrDTCwd.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ベネディト",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d9%a5%cd%a5%c7%a5%a3%a5%c8",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/2tciYpWMfH.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ベルトラン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d9%a5%eb%a5%c8%a5%e9%a5%f3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/a1HDV0f24C.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ベルトラン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d9%a5%eb%a5%c8%a5%e9%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/7G0oa7nZ3I.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ベルベット",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d9%a5%eb%a5%d9%a5%c3%a5%c8",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/AApS6jwrDP.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヘレナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%d8%a5%ec%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/KDoAUvuAYh.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ホオズキ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%db%a5%aa%a5%ba%a5%ad",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/aUceRl4CZ6.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ホオズキ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%db%a5%aa%a5%ba%a5%ad%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/KifooDGc7A.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ポム",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%dd%a5%e0",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/gCYUUqREhn.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ポム(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%dd%a5%e0%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/5wjyVvnpre.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マイティ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%a4%a5%c6%a5%a3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/6CUsy3UfTw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マイティ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%a4%a5%c6%a5%a3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/E25ImcswfB.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マツリカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%c4%a5%ea%a5%ab",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/SkDjBQPCB5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/xZNd93nAik.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マユ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%e6",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/trxJz34DW7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マリエル",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%ea%a5%a8%a5%eb",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Ru2MCZGZ5H.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マリエル(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%ea%a5%a8%a5%eb%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/ofAMeNuEYy.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "マリエル(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%de%a5%ea%a5%a8%a5%eb%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/mPM1gA8Jng.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミーユ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a1%bc%a5%e6",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/bzmLaYLd57.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミーユ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a1%bc%a5%e6%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/xPqDwo6ttZ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミーユ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a1%bc%a5%e6%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/a2Pb3bJ1hI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミストレア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%b9%a5%c8%a5%ec%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/bfX6wmGLZk.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミストレア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%b9%a5%c8%a5%ec%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/fVpsKfoQj5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミナルカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%ca%a5%eb%a5%ab",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/CwYVyI641e.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミナルカ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%ca%a5%eb%a5%ab%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/It8KvLycBr.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミュルス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e5%a5%eb%a5%b9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/E7RnEizrvX.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミュルス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e5%a5%eb%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/oeki4I90m3.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミュルス(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e5%a5%eb%a5%b9%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/e946749d4a81e674.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミュンファ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e5%a5%f3%a5%d5%a5%a1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/aumb7p2H9y.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミュンファ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e5%a5%f3%a5%d5%a5%a1%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/VEN4Xwe4Nw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミラ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%e9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/tvYCCfp_1b.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミルシャ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%eb%a5%b7%a5%e3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/J5xRE9SHN4.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミルシャ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%eb%a5%b7%a5%e3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/UHO3IrGsm4.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ミルディ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%df%a5%eb%a5%c7%a5%a3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/7e53f54f8422b3f8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メイ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%a4",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/gF0kpajsJu.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メリッサ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ea%a5%c3%a5%b5",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/8WDNX7xWun.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メリト",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ea%a5%c8",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/656106f8249758c7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メリナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ea%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/hc6EqKFXc7.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メリナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ea%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/38dfFEjZvp.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メリナ(ES)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ea%a5%ca%28%a5%a8%a5%af%a5%b9%a5%c8%a5%e9%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/soCxjZy2_z.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メルピピア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%eb%a5%d4%a5%d4%a5%a2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/WLcHOiRu3X.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メロディ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ed%a5%c7%a5%a3",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/ZVlxhaPpib.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "メロディ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e1%a5%ed%a5%c7%a5%a3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/yabvqUlvvf.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "モルガナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e2%a5%eb%a5%ac%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/oCEiztiBzn.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヤクモ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e4%a5%af%a5%e2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/INyE2HMM9x.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ヤクモ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e4%a5%af%a5%e2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/FEBN5KWD57.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユーイン",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a1%bc%a5%a4%a5%f3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/w7QITmqM2D.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユーイン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a1%bc%a5%a4%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/TjG6fxta6D.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユーリ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a1%bc%a5%ea",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/twF1iXZeY5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユキノ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a5%ad%a5%ce",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/kTvwsEqswl.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユキノ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a5%ad%a5%ce%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/9B4W8deT6S.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a5%ca",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/NU6IeNSXtc.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ユナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e6%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/FPuB6RiJmx.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ライザ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%a4%a5%b6",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/sd40mwnsQp.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラクレア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%af%a5%ec%a5%a2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/u_DZ7iNhJG.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラクレア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%af%a5%ec%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/BHejLQJu_O.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラディアス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%c7%a5%a3%a5%a2%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/uc38tuIxVZ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラディアス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%c7%a5%a3%a5%a2%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/HIN_dsfXQI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラディカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%c7%a5%a3%a5%ab",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/J1iji77VSP.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラディカ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%c7%a5%a3%a5%ab%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/NOpGO3HJOB.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラビナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%d3%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/dae4626f2cfe1ca0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラブリ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%d6%a5%ea",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/VXTFEF4VxL.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ラブリ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%e9%a5%d6%a5%ea%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/GR4RLYsSM8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リィカ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%a3%a5%ab",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/TX6IVrSYgi.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リヴァイア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%f4%a5%a1%a5%a4%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/OnnBa7lSID.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リヴァイア(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%f4%a5%a1%a5%a4%a5%a2%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/yN89D39cZw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リナリア",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%ca%a5%ea%a5%a2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/7f1aa348d397b466.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リュゼ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%e5%a5%bc",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/VO0xKwajNo.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "リンリー",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%f3%a5%ea%a1%bc",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/UxFkLAAR7w.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "リンリー(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ea%a5%f3%a5%ea%a1%bc%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/YYZsbi7taT.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ルイナ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%eb%a5%a4%a5%ca",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/lTZura6mfF.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ルイナ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%eb%a5%a4%a5%ca%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/e9rgqK_AZA.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ルーフス",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%eb%a1%bc%a5%d5%a5%b9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/_b1KGm3cpl.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "ルーフス(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%eb%a1%bc%a5%d5%a5%b9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/jvOxBHUBjr.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "レイヴン(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ec%a5%a4%a5%f4%a5%f3%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/2e5ddddf9fb1f551.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "レレ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ec%a5%ec",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/6k6Db9OVsU.png",
+      "listIds": [
+        "star4"
+      ]
+    },
+    {
+      "name": "レレ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ec%a5%ec%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/Ncv2QAqnuw.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "レンリ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ec%a5%f3%a5%ea",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/9_ku6b3r6z.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "レンリ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ec%a5%f3%a5%ea%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/ReY8OwEk3r.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ロイド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ed%a5%a4%a5%c9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/eynfgRWf0x.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ロキド",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ed%a5%ad%a5%c9",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/OuoE4V_Qx8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ロキド(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ed%a5%ad%a5%c9%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/5hVcm3W9LF.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ロゼッタ",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ed%a5%bc%a5%c3%a5%bf",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/gNOqwSWs7y.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "ロゼッタ(AS)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a5%ed%a5%bc%a5%c3%a5%bf%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/LxGUwKRx9u.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "わら坊",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%a4%ef%a4%e9%cb%b7",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/fsUb4ehN5J.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "茜袖の旅商人(異時層シグレ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b0%ab%c2%b5%a4%ce%ce%b9%be%a6%bf%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/9e8f989a033e38ce.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "茨呪の艶女(異時層シェイネ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b0%f1%bc%f6%a4%ce%b1%f0%bd%f7",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/qKawpPmdJQ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "烏夜の隠密(異時層ツバメ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b1%a8%cc%eb%a4%ce%b1%a3%cc%a9",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/rMMSZkJb1A.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "花咲の姫君(異時層ツキハ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b2%d6%ba%e9%a4%ce%c9%b1%b7%af",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/r6ytiLyEi2.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "義侠の猟人(異時層ラクレア)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b5%c1%b6%a2%a4%ce%ce%c4%bf%cd",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/c4856af54958cba9.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "菊花の剣客(異時層アカネ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b5%c6%b2%d6%a4%ce%b7%f5%b5%d2",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Nh4ZYNPN2q.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "京",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b5%fe",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/tu6CFTh9Gb.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "銀朱の九尾(異時層ホオズキ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b6%e4%bc%eb%a4%ce%b6%e5%c8%f8",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/6zsJ4VypMZ.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "銀織の雷使い(AS)(異時層プレメア(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b6%e4%bf%a5%a4%ce%cd%eb%bb%c8%a4%a4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/56e4d7c6be6b4262.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "銀織の雷使い(異時層プレメア)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b6%e4%bf%a5%a4%ce%cd%eb%bb%c8%a4%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/CVMUc4Ydft.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "月華の令嬢(異時層ヒスメナ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b7%ee%b2%da%a4%ce%ce%e1%be%ee",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/O6PbkCc3jx.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "黒衣の刀使い(AS)(異時層イスカ(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b9%f5%b0%e1%a4%ce%c5%e1%bb%c8%a4%a4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/924b87687d8da86f.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "黒衣の刀使い(異時層イスカ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%b9%f5%b0%e1%a4%ce%c5%e1%bb%c8%a4%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/J1fgeBTzgY.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "残影の佳人(異時層シャノン)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%bb%c4%b1%c6%a4%ce%b2%c2%bf%cd",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/mqzdsPtlRs.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "紫装の槍使い(異時層トゥーヴァ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%bb%e7%c1%f5%a4%ce%c1%e4%bb%c8%a4%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/8BrAFBxRc6.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "寂寞の舞台人(異時層ロキド)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%bc%e4%d5%eb%a4%ce%c9%f1%c2%e6%bf%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/fPMQGEIlWx.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "深緋の刈人(異時層イルルゥ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%bf%bc%c8%ec%a4%ce%b4%a2%bf%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/_4haOtBOFN.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "星の子",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c0%b1%a4%ce%bb%d2",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/kif8RZ10w0.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "赤套の炎使い(AS)(異時層デューイ(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c0%d6%c5%e5%a4%ce%b1%ea%bb%c8%a4%a4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/d44067a3f33a7618.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "赤套の炎使い(異時層デューイ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c0%d6%c5%e5%a4%ce%b1%ea%bb%c8%a4%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/Zaa39CSqU8.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "蒼色の忠臣(ヴァレス)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c1%f3%bf%a7%a4%ce%c3%e9%bf%c3",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/0c1c088d775383d3.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "電影の明星(異時層シエル)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c5%c5%b1%c6%a4%ce%cc%c0%c0%b1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/VtARUisI3e.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "白磁の魔人(AS)(異時層ミュンファ(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c7%f2%bc%a7%a4%ce%cb%e2%bf%cd%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/ef1cdda4e1a686be.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "白磁の魔人(異時層ミュンファ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c7%f2%bc%a7%a4%ce%cb%e2%bf%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/lvxEfTjqhj.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "氷塵の歌姫(異時層ユキノ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c9%b9%bf%d0%a4%ce%b2%ce%c9%b1",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/d1518871f330c77e.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "舞",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%c9%f1",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/9JGt_ce8Aj.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "碧光の鎌使い(AS)(異時層シュゼット(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%ca%cb%b8%f7%a4%ce%b3%f9%bb%c8%a4%a4%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/9a4edc793fa10021.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "碧光の鎌使い(異時層シュゼット)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%ca%cb%b8%f7%a4%ce%b3%f9%bb%c8%a4%a4",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/A_046RHHKy.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "墨染の軍師(AS)(異時層シオン(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%cb%cf%c0%f7%a4%ce%b7%b3%bb%d5%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/XGKyQlC9VW.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "墨染の軍師(異時層シオン)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%cb%cf%c0%f7%a4%ce%b7%b3%bb%d5",
+      "listIconUrl": "https://image01.seesaawiki.jp/a/o/anothereden-game-info/tkdJb7hoZO.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "夢吟の詩人(AS)(異時層デュナリス(AS))",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%cc%b4%b6%e3%a4%ce%bb%ed%bf%cd%28%a5%a2%a5%ca%a5%b6%a1%bc%a5%b9%a5%bf%a5%a4%a5%eb%29",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/9b14a81dbe74bda5.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "夢吟の詩人(異時層デュナリス)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%cc%b4%b6%e3%a4%ce%bb%ed%bf%cd",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/t8rgVIH1TI.png",
+      "listIds": [
+        "star5"
+      ]
+    },
+    {
+      "name": "韜晦の討手(異時層レンリ)",
+      "pageUrl": "https://anothereden.game-info.wiki/d/%f0%eb%b3%a2%a4%ce%c6%a4%bc%ea",
+      "listIconUrl": "https://image02.seesaawiki.jp/a/o/anothereden-game-info/r6ib0M4FvJ.png",
+      "listIds": [
+        "star5"
+      ]
+    }
+  ]
+}

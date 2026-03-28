@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Wiki から取得した個別ページ HTML・マニフェスト（容量・ローカル実行用）
+data/wiki/raw/
+data/wiki/character-raw-manifest.json
