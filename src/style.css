@@ -1,0 +1,264 @@
+/* 「館」: 重い額縁・羊皮紙・燭光のようなトーン */
+:root {
+  --hall-bg-a: #0c0a08;
+  --hall-bg-b: #15100c;
+  --parchment: #f3ecdf;
+  --parchment-deep: #e8dcc8;
+  --ink: #2a2119;
+  --ink-muted: #5c4f42;
+  --bronze: #6b4e2e;
+  --bronze-light: #a08050;
+  --gold: #c9a24a;
+  --gold-dim: rgba(201, 162, 74, 0.35);
+  --burgundy: #5a1f28;
+  --ember: rgba(255, 180, 90, 0.06);
+
+  font-family: 'Noto Serif JP', 'Yu Mincho', 'Hiragino Mincho ProN', serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--ink);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+  background: var(--hall-bg-a);
+}
+
+#app {
+  min-height: 100svh;
+}
+
+.hall {
+  position: relative;
+  min-height: 100svh;
+  padding: 2rem 1rem 3rem;
+  background:
+    radial-gradient(ellipse 90% 55% at 50% -5%, var(--ember), transparent 55%),
+    linear-gradient(165deg, var(--hall-bg-b) 0%, var(--hall-bg-a) 45%, #0a0806 100%);
+  overflow-x: hidden;
+}
+
+.hall-dust {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  opacity: 0.35;
+  background-image: radial-gradient(
+      circle at 12% 22%,
+      rgba(255, 245, 220, 0.04) 0,
+      transparent 28%
+    ),
+    radial-gradient(circle at 88% 70%, rgba(200, 170, 120, 0.05) 0, transparent 32%);
+}
+
+.salon {
+  position: relative;
+  z-index: 1;
+  max-width: 820px;
+  margin: 0 auto;
+}
+
+/* 外枠: 青銅・金の多層フレーム */
+.salon-frame {
+  padding: 3px;
+  border-radius: 3px;
+  background: linear-gradient(
+    145deg,
+    #4a3420 0%,
+    var(--bronze-light) 35%,
+    #3d2a18 70%,
+    #2a1e12 100%
+  );
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.5),
+    0 0 0 2px rgba(201, 162, 74, 0.25),
+    0 28px 56px rgba(0, 0, 0, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+.salon-frame-inner {
+  border-radius: 1px;
+  border: 1px solid rgba(60, 45, 30, 0.85);
+  background: linear-gradient(
+    180deg,
+    #faf5eb 0%,
+    var(--parchment) 18%,
+    var(--parchment-deep) 100%
+  );
+  box-shadow: inset 0 0 80px rgba(139, 110, 70, 0.08);
+  padding: 2.25rem 1.75rem 2rem;
+}
+
+@media (min-width: 600px) {
+  .salon-frame-inner {
+    padding: 2.75rem 2.5rem 2.25rem;
+  }
+}
+
+.salon-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.salon-eyebrow {
+  margin: 0 0 0.75rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.35em;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+}
+
+.salon-title {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.salon-title-main {
+  font-size: clamp(1.65rem, 4.5vw, 2.15rem);
+  font-weight: 700;
+  letter-spacing: 0.28em;
+  color: var(--burgundy);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+.salon-title-sub {
+  font-size: 0.82rem;
+  font-weight: 400;
+  letter-spacing: 0.22em;
+  color: var(--bronze);
+}
+
+.salon-ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin: 1.25rem 0 1rem;
+}
+
+.salon-ornament--small {
+  margin: 0 0 1rem;
+  opacity: 0.85;
+}
+
+.salon-ornament-line {
+  display: block;
+  width: min(120px, 28vw);
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold-dim), transparent);
+  box-shadow: 0 0 8px var(--gold-dim);
+}
+
+.salon-ornament-gem {
+  color: var(--gold);
+  font-size: 0.65rem;
+  line-height: 1;
+  text-shadow: 0 0 12px rgba(201, 162, 74, 0.45);
+}
+
+.salon-tagline {
+  margin: 0 auto;
+  max-width: 36em;
+  font-size: 0.92rem;
+  color: var(--ink-muted);
+}
+
+.salon-intro {
+  margin-bottom: 2rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid rgba(107, 78, 46, 0.2);
+}
+
+.salon-section-title {
+  margin: 0 0 0.65rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  color: var(--bronze);
+}
+
+.salon-lead {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+
+.salon-grid {
+  display: grid;
+  gap: 1rem;
+}
+
+@media (min-width: 640px) {
+  .salon-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.85rem;
+  }
+}
+
+.hall-card {
+  margin: 0;
+}
+
+.hall-card-frame {
+  height: 100%;
+  min-height: 158px;
+  padding: 1.1rem 1rem 1rem;
+  background: linear-gradient(180deg, rgba(255, 252, 246, 0.65) 0%, rgba(232, 220, 200, 0.5) 100%);
+  border: 1px solid rgba(107, 78, 46, 0.35);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.5),
+    0 2px 8px rgba(42, 33, 25, 0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.hall-card-title {
+  margin: 0;
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--burgundy);
+  line-height: 1.45;
+}
+
+.hall-card-desc {
+  margin: 0;
+  flex: 1;
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  line-height: 1.6;
+}
+
+.hall-card-status {
+  margin: 0.35rem 0 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--bronze);
+}
+
+.salon-footer {
+  margin-top: 2.25rem;
+  padding-top: 0.25rem;
+  text-align: center;
+}
+
+.salon-footer p {
+  margin: 0;
+  font-size: 0.74rem;
+  line-height: 1.65;
+  color: var(--ink-muted);
+}
